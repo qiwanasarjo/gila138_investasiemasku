@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gila138emasku.sbs/sitemap.xml
